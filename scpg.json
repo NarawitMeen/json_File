@@ -1,0 +1,54 @@
+{
+  "initiator": "workflow",
+  "eid": "workflow",
+  "no": "680000006",
+  "examno": "",
+  "submit": true,
+  "be_subjects": "na",
+  "pid": "82b6d8e4-e373-11ef-a1ea-0232d5c92683",
+  "docno": "680000006-schs",
+  "tid": "82bf167c-e373-11ef-a1ea-0232d5c92683",
+  "be_university": "na",
+  "name_lname": "na",
+  "exam_2_1": "na",
+  "exam_2_2": "na",
+  "be_degree_result": [
+    {
+      "be_subjects": "na",
+      "be_grade": "na"
+    }
+  ],
+  "savedraft": false,
+  "choose_project": "na",
+  "examno_orig": "680000006",
+  "docpath": "schs/2025/680000006-schs",
+  "exam_2_6": "na",
+  "exam_2_7": "na",
+  "exam_article": "",
+  "exam_2_8": "na",
+  "doctype": "schs",
+  "file_attach": [
+    {
+      "storage": "s3",
+      "name": "680000006-schs.pdf",
+      "key": "schs/2025/680000006-schs/680000006-schs",
+      "url": "https://w-test.nstda.or.th/camunda/s/formio/s3?v=schs/2025/680000006-schs/680000006-schs.pdf",
+      "size": 10,
+      "type": "application/pdf",
+      "originalName": "680000006-schs.pdf"
+    }
+  ],
+  "approve_first": {
+    "id": "",
+    "name": "",
+    "date": "",
+    "datetime": ""
+  },
+  "approve_last": {
+    "id": "",
+    "name": "",
+    "date": "",
+    "datetime": ""
+  },
+  "comment": ""
+}

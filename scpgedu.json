@@ -1,0 +1,59 @@
+{
+  "initiator": "workflow",
+  "eid": "workflow",
+  "no": "680000004",
+  "high_school_result": [
+    {
+      "subject_4to6": "คณิตศาสตร์",
+      "score_4to6": "4"
+    }
+  ],
+  "place_high_school": "โรงเรียนสาธิต มศว.",
+  "submit": true,
+  "place_middle_school": "โรงเรียนสาธิต มศว.",
+  "pid": "2ed9c280-e2d1-11ef-a1ea-0232d5c92683",
+  "docno": "680000004-schsedu",
+  "tid": "2eda8608-e2d1-11ef-a1ea-0232d5c92683",
+  "name_lname": "ศนิศา เนติภัทรชูโชติ",
+  "exam_2": "ล้างห้องน้ำวัด",
+  "exam_3": "Extreme Sports ",
+  "exam_1": "รถแข่ง",
+  "gpa_high_school": "3.80",
+  "exam_4": "ร้องเพลง",
+  "exam_5": "ถนัดด้านการคำนวณ",
+  "gpa_middle_school": "3.94",
+  "choose_project": "680320001",
+  "middle_school_result": [
+    {
+      "subject_1to3": "อังกฤษ",
+      "score_1to3": "4"
+    }
+  ],
+  "examno_orig": "680000004",
+  "docpath": "schsedu/2025/680000004-schsedu",
+  "doctype": "schsedu",
+  "file_attach": [
+    {
+      "storage": "s3",
+      "name": "680000004-schsedu.pdf",
+      "key": "schsedu/2025/680000004-schsedu/680000004-schsedu",
+      "url": "https://w-test.nstda.or.th/camunda/s/formio/s3?v=schsedu/2025/680000004-schsedu/680000004-schsedu.pdf",
+      "size": 10,
+      "type": "application/pdf",
+      "originalName": "680000004-schsedu.pdf"
+    }
+  ],
+  "approve_first": {
+    "id": "",
+    "name": "",
+    "date": "",
+    "datetime": ""
+  },
+  "approve_last": {
+    "id": "",
+    "name": "",
+    "date": "",
+    "datetime": ""
+  },
+  "comment": ""
+}
