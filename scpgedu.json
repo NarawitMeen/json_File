@@ -1,46 +1,60 @@
 {
   "initiator": "workflow",
   "eid": "workflow",
-  "no": "680000004",
-  "high_school_result": [
-    {
-      "subject_4to6": "คณิตศาสตร์",
-      "score_4to6": "4"
-    }
-  ],
-  "place_high_school": "โรงเรียนสาธิต มศว.",
+  "no": "681300893",
+  "examno": "681300893",
   "submit": true,
-  "place_middle_school": "โรงเรียนสาธิต มศว.",
-  "pid": "2ed9c280-e2d1-11ef-a1ea-0232d5c92683",
-  "docno": "680000004-schsedu",
-  "tid": "2eda8608-e2d1-11ef-a1ea-0232d5c92683",
-  "name_lname": "ศนิศา เนติภัทรชูโชติ",
-  "exam_2": "ล้างห้องน้ำวัด",
-  "exam_3": "Extreme Sports ",
-  "exam_1": "รถแข่ง",
-  "gpa_high_school": "3.80",
-  "exam_4": "ร้องเพลง",
-  "exam_5": "ถนัดด้านการคำนวณ",
-  "gpa_middle_school": "3.94",
-  "choose_project": "680320001",
-  "middle_school_result": [
+  "be_subjects": "na",
+  "pid": "7f295524-4731-11f0-b573-0232d5c92683",
+  "master_degree_result": [
     {
-      "subject_1to3": "อังกฤษ",
-      "score_1to3": "4"
+      "ms_subjects": "Math",
+      "ms_grade": "92"
+    },
+    {
+      "ms_subjects": "Sci",
+      "ms_grade": "90"
     }
   ],
-  "examno_orig": "680000004",
-  "docpath": "schsedu/2025/680000004-schsedu",
-  "doctype": "schsedu",
+  "docno": "681300893-scpgedu",
+  "tid": "7f311d98-4731-11f0-b573-0232d5c92683",
+  "docpath": "scpgedu/2025/681300893-scpgedu",
+  "be_gpa": "3.50",
+  "be_university": "MU",
+  "name_lname": "ใจดี สุขมาก",
+  "exam_2_1": "testtesttesttesttesttesttest",
+  "exam_2_2": "testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest",
+  "exam_2_3": "testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest",
+  "be_degree_result": [
+    {
+      "be_subjects": "Math",
+      "be_grade": "90"
+    },
+    {
+      "be_subjects": "Sci",
+      "be_grade": "85"
+    }
+  ],
+  "exam_2_4": "testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest",
+  "ms_university": "Harvard",
+  "savedraft": true,
+  "choose_project": "test",
+  "examno_orig": "681300893",
+  "exam_2_5": "testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest",
+  "exam_2_6": "testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest",
+  "ms_gpa": "3.66",
+  "exam_2_7": "testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest",
+  "exam_2_8": "na",
+  "doctype": "scpgedu",
   "file_attach": [
     {
       "storage": "s3",
-      "name": "680000004-schsedu.pdf",
-      "key": "schsedu/2025/680000004-schsedu/680000004-schsedu",
-      "url": "https://w-test.nstda.or.th/camunda/s/formio/s3?v=schsedu/2025/680000004-schsedu/680000004-schsedu.pdf",
+      "name": "681300893-scpgedu.pdf",
+      "key": "scpgedu/2025/681300893-scpgedu/681300893-scpgedu",
+      "url": "https://w-test.nstda.or.th/camunda/s/formio/s3?v=scpgedu/2025/681300893-scpgedu/681300893-scpgedu.pdf",
       "size": 10,
       "type": "application/pdf",
-      "originalName": "680000004-schsedu.pdf"
+      "originalName": "681300893-scpgedu.pdf"
     }
   ],
   "approve_first": {
